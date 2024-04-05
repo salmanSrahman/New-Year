@@ -281,10 +281,43 @@ section{
        holiday offer part css end  
 ================================== */
 /* ==================================
-       hero part css start  
+       portfolio part css start  
 ================================== */
+.portfolio_text{
+
+}
+.portfolio_text h5{
+    margin-bottom: 20px;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight:500;
+    color: #FF0000;
+
+}
+.portfolio_text h2{
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 800;
+    color: #070211;
+
+}
+.portfolio_text p{
+    font-family: "Inter", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #070211;
+    width: 880px;
+    margin: 20px 0 48px;
+
+}
+.portfolio_images{
+    display: flex;
+    gap:24px;
+    flex-wrap: wrap;
+}
 /* ==================================
-       hero part css end  
+       portfolio part css end  
 ================================== */
 /* ==================================
        hero part css start  
