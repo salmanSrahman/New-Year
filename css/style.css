@@ -10,6 +10,9 @@ ul,ol,li,h1,h2,h3,h4,h5,h6,p{
     max-width: 1320px;
     margin: 0 auto;
 }
+a{
+    text-decoration: none;
+}
 /* common css end */
 
 /* ==================================
@@ -87,10 +90,52 @@ section{
        category part css end  
 ================================== */
 /* ==================================
-       hero part css start  
+    midnight party part css start  
 ================================== */
+.midnight_party_part{
+    background-image: url("../images/party.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 130px;
+    text-align: center;
+    text-align: left;
+
+}
+.midnight_party_part h2{
+    font-family: "Merriweather", serif;
+    color: white;
+    font-size: 64px;
+    line-height: 88px;
+    font-weight:900;
+    width: 632px;
+
+}
+
+.midnight_party_part h4{
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+    font-weight:400;
+    width: 697px;
+    margin-top: 15px;
+
+}
+.midnight_party_part a{
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight:700;
+    color: white;
+    margin-top: 48px;
+    display: inline-block;
+    background: #FF0000;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
 /* ==================================
-       hero part css end  
+    midnight party part css end  
 ================================== */
 /* ==================================
        hero part css start  
