@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding:0
+}
+ul,ol,li,h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0
+}
+.container{
+    max-width: 1320px;
+    margin: 0 auto;
+}
+/* common css end */
+
+/* ==================================
+       hero part css start  
+================================== */
+.hero_part{
+    background-image: url("../images/banner_image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 177px 0 200px 0;
+    width: 100%;
+    text-align: center;
+}
+.hero_text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero_text h4{
+    font-family: "Merriweather", serif;
+    color: white;
+    font-size: 32px;
+
+}
+.hero_text h1{
+    font-family: "Merriweather", serif;
+    color: white;
+    font-size: 72px;
+    font-weight:900;
+    width: 632px;
+
+}
+
+/* ==================================
+       hero part css end  
+================================== */
+
+
+/* ==================================
+       hero part css start  
+================================== */
+/* ==================================
+       hero part css end  
+================================== */
+/* ==================================
+       hero part css start  
+================================== */
+/* ==================================
+       hero part css end  
+================================== */
+/* ==================================
+       hero part css start  
+================================== */
+/* ==================================
+       hero part css end  
+================================== */
