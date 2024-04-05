@@ -169,10 +169,76 @@ section{
        place part css end  
 ================================== */
 /* ==================================
-       hero part css start  
+       coming part css start  
 ================================== */
+.coming_inner{
+    display: flex;
+    align-items: center;
+    column-gap: 70px;
+}
+.coming_left {
+    width: 393px;
+
+}
+.coming_left h5{
+    margin-bottom: 20px;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight:500;
+    color: #FF0000;
+
+
+}
+.coming_left h3{
+    margin-bottom: 20px;
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-weight:800;
+    color: #070211;
+
+}
+.coming_left p{
+    margin-bottom: 20px;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    color: #070211;
+
+}
+.coming_mid{
+    width: 463px;
+}
+.coming_mid img{
+    width: 364px;
+    padding: 45px;
+    border: 15px solid #FF0000;
+    border-radius: 50%;
+    
+
+}
+.coming_right h3{
+    margin-bottom: 20px;
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-weight:800;
+    color: #FF0000;
+
+}
+.coming_right p{
+    margin-bottom: 20px;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #070211;
+    width: 276px;
+
+}
+.coming_right img{
+    width: 140px;
+}
 /* ==================================
-       hero part css end  
+       coming part css end  
 ================================== */
 /* ==================================
        hero part css start  
