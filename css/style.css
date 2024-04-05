@@ -48,13 +48,43 @@ ul,ol,li,h1,h2,h3,h4,h5,h6,p{
 /* ==================================
        hero part css end  
 ================================== */
-
-
 /* ==================================
-       hero part css start  
+       category part css start  
 ================================== */
+section{
+    margin-top: 120px;
+}
+.category_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.category_content h2{
+    font-family: "Inter", sans-serif;
+    font-size: 88px;
+    font-weight: 700;
+    color: #FF0000;
+    margin-bottom: 48px;
+
+}
+.category_content h4{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #FF0000;
+
+}
+.category_content h3{
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: #070211;
+    margin: 16px 0 48px 0;
+
+}
 /* ==================================
-       hero part css end  
+       category part css end  
 ================================== */
 /* ==================================
        hero part css start  
