@@ -381,10 +381,68 @@ section{
        newsletter part css end  
 ================================== */
 /* ==================================
-       hero part css start  
+       footer part css start  
 ================================== */
+footer{
+    background: #070211;
+    padding: 120px 0 60px;
+}
+
+.footer_top_text{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.contact_address{
+    width: 300px;
+}
+.contact_address p{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight:500;
+    line-height: 40px;
+    color: #fff;
+
+}
+.contact_icon{
+    width: 251px;
+}
+.contact_icon p{
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight:500;
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+    margin-bottom: 12px;
+}
+.footer_top_social{
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    padding: 47px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    margin: 50px 0 70px;
+}
+.footer_top_social img{
+    width: 44px;
+}
+.footer_bottom{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.footer_bottom p{
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight:500;
+}
+
 /* ==================================
-       hero part css end  
+       footer part css end  
 ================================== */
 /* ==================================
        hero part css start  
