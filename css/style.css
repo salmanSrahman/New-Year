@@ -122,7 +122,7 @@ section{
     margin-top: 15px;
 
 }
-.midnight_party_part a{
+.btn_primary{
     font-family: "Inter", sans-serif;
     font-size: 18px;
     font-weight:700;
@@ -136,6 +136,55 @@ section{
 
 /* ==================================
     midnight party part css end  
+================================== */
+/* ==================================
+       place part css start  
+================================== */
+.place_part{
+    background-image: url("../images/place_cover.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 110px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.place_part h4{
+    margin-bottom: 20px;
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+    font-weight:600;
+    color: #070211;
+
+}
+.place_part h4 span{
+    color: #FF0000;
+    margin-right: 3px;
+
+}
+/* ==================================
+       place part css end  
+================================== */
+/* ==================================
+       hero part css start  
+================================== */
+/* ==================================
+       hero part css end  
+================================== */
+/* ==================================
+       hero part css start  
+================================== */
+/* ==================================
+       hero part css end  
+================================== */
+/* ==================================
+       hero part css start  
+================================== */
+/* ==================================
+       hero part css end  
 ================================== */
 /* ==================================
        hero part css start  
