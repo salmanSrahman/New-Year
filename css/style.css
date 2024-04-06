@@ -313,6 +313,16 @@ section{
     gap:24px;
     flex-wrap: wrap;
 }
+.portfolio_images img{
+    transition: all linear 0.3s;
+    transform: scale(0.95);
+
+
+}
+.portfolio_images img:hover{
+    transform: scale(1);
+
+}
 /* ==================================
        portfolio part css end  
 ================================== */
